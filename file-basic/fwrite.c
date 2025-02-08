@@ -2,6 +2,9 @@
 #include <string.h>
 #include <stdlib.h>
 
+// fwrite API : 파일에 쓰기 - byte stream
+// fread API : 파일에서 읽기 - byte stream
+
 struct person
 {
     char name[20];
